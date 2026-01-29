@@ -1,1 +1,1 @@
-![Jett Patrol](./cr.svg)
+![Jett Patrol](./jett.svg)
